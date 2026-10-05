@@ -1,5 +1,8 @@
 # CityWeb 🏙️ — "Piața" (Deployed on Vercel)
 
+A template project made at a hackathon for the basis of a city interface - make your own events for the city, link weather, radio, map or calendar.
+Project idea started from VNU hackathon
+
 A high-performance hybrid web application built with **Vue 3**, **Vite**, **React 19**, and **Tailwind CSS v4**, deployed live on **[Vercel](https://vercel.com)**. Powered by a **Neon PostgreSQL** database cloud backend.
 
 ---
